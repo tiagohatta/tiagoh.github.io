@@ -1,6 +1,6 @@
 # Site settings
 title: Tiago Hatta
-description: A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+description: Personal Website
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://tiagoh.github.io" # the base hostname & protocol for your site
