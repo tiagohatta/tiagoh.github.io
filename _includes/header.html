@@ -1,0 +1,22 @@
+<header class="header">
+<div class="navigation">
+<a href="{{ '/' | prepend: site.baseurl }}" class="logo">{{ site.title }}</a>
+<ul class="menu">
+<li class="menu__entry"><a href="{{ '/career' | prepend: site.baseurl }}">Career</a></li>
+<li class="menu__entry"><a href="{{ '/academic' | prepend: site.baseurl }}">Academic</a></li>
+<li class="menu__entry"><a href="{{ '/about' | prepend: site.baseurl }}">About Me</a></li>
+</ul>
+</div>
+<ul class="social-links">
+{% if site.author.email %}
+<a href="mailto:{{ site.author.email }}" class="social-links__entry" target="_blank">
+<i class="fa-solid fa-square-envelope"></i>
+</a>
+{% endif %}
+{% if site.author.linkedin %}
+<a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" class="social-links__entry" target="_blank">
+<i class="fa-brands fa-linkedin"></i>
+</a>
+{% endif %}
+</ul>
+</header>
