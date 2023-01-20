@@ -20,7 +20,7 @@ In 2021 I adopted a kitten 🐈 called Saki (咲希) which means "Blossom of Hop
 ## Current Activities
 
 <div style="text-align: justify">
-💪 <strong>Volunteering</strong>: After I arrived in Gothenburg, I sent an e-mail to the local cat shelter, <a href="https://djurensvanner.se/goteborg/">Djurens Vänner</a> since I was interested in being a volunteer. In December of 2022 I started helping there. It consists in a lot of cleaning and feeding the pets, but it is incredibly rewarding.
+💪 <strong>Volunteering</strong>: After I arrived in Gothenburg, I sent an e-mail to the local cat shelter, <a href="https://djurensvanner.se/goteborg/">Djurens Vänner</a>, since I was interested in being a volunteer. In December of 2022 I started helping there. The job consists in a lot of cleaning and feeding the pets, but it is incredibly rewarding.
 <br><br>
 📚 <strong>Swedish For Immigrants</strong>: In order to integrate to Swedish society, I believe it's important to learn the native language. It's a big challenge, but I'm seeing progress in my studies.
 </div>
@@ -30,7 +30,7 @@ In 2021 I adopted a kitten 🐈 called Saki (咲希) which means "Blossom of Hop
 <div style="text-align: justify">
 🎸 <strong>Guitar</strong>: Years ago I learned how to play the guitar. Both acoustic and electrical. It's been a while since I played it though.
 <br><br>
-🗣️ <strong>Language Learning</strong>: It's fascinating to me how you can express yourself to others in different part of the globe in a totally different way you're used to. After studying english for many years, I decided to start japanese. I get the basics during my bachelors degree. I also studied spanish in high school, and started french some time ago. However, as I moved to Sweden, my focus as of now is in swedish.
+🗣️ <strong>Language Learning</strong>: It's fascinating to me how you can express yourself to others in different part of the globe in a totally different way you're used to. After studying English for many years, I decided to start Japanese. I get the basics during my bachelors degree. I also studied Spanish in high school, and started French some time ago. However, as I moved to Sweden, my focus as of now is on Swedish.
 <br><br>
 🧳 <strong>Travelling</strong>: I've always wanted to travel more, but since the costs for that in my home country are quite high, I've visited cities and states closer to where I lived. Now in europe I hope to have more opportunities to check out new places. Countries I've visited: 🇧🇷, 🇦🇷, 🇸🇪, 🇫🇷, 🇮🇪 and 🇵🇱.
 

@@ -102,7 +102,7 @@ I was oriented by Prof. PhD Juliana Freitag Borin and had support from LMCAD (Mu
 <br><br>
 Basically, there are many collectors in the campus, but those are not filled up uniformly. Less populated areas don't usually need to be checked frequently. So the idea was to develop a prototype using a simple embedded system for checking the capacity and based on that return the best route for the collectors.
 <br><br>
-It was implemented using NodeMCU and a ultrasonic sensor programmed in C. The information was sent via Wi-Fi, giving there was no LoRA or NB-IoT network available, using MQTT. A web application was developed using Django, MongoDB and Google Maps API to return the best route according to the data.</div>
+It was implemented using NodeMCU and a ultrasonic sensor programmed in C. The information was sent  using MQTT via Wi-Fi, giving there was no LoRA or NB-IoT network available. A web application was developed using Django, MongoDB and Google Maps API to return the best route according to the data.</div>
 
 <div style="text-align: center">
     <img src="{{ '/assets/img/smartcampus.jpeg' | prepend: site.baseurl }}" id="smartcampus-img" style="diplay: flex" width="50%" height="50%">
